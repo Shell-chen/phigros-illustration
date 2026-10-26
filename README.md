@@ -1,2 +1,4 @@
 # phigros-illustration
-Phigros 曲绘
+这里是我搜集到的所有 phigros 曲绘。由于来源有不同因此名字格式有一些差异，望见谅。
+
+应该是不全的，NOIP 前不要催更。
